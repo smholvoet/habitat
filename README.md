@@ -22,6 +22,13 @@ TBD
 |----------|--------|--------|----------|-------|
 | … | … | … | … | … |
 
+### Appliances
+| Device     | Brand   | Model        | Notes                                 |
+|------------|---------|--------------|---------------------------------------|
+| Fridge     | AEG     | `TSC7G181DS` | …                                     |
+| Cooktop    | AEG     | `IKB64441FB` | …                                     |
+| Dishwasher | Siemens | `SN65YX00CE` | iQ 500 series (supports Home Connect) |
+
 ### Sensors
 TBD
 
