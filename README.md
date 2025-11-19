@@ -13,14 +13,19 @@ TBD
 ## 🧰 Hardware Inventory
 
 ### Network & Infrastructure
-| Device | Model | Location | Purpose | Notes |
-|--------|--------|----------|---------|-------|
-| … | … | … | … | … |
+| Device           | Manufacturer   | Model                 | Notes                        |
+|------------------|----------------|----------------------|-------------------------------|
+| Modem            | BASE           | `CH7465LG-TN`        | EuroDOCSIS 3.0, Base flavor   |
+| Router           | Ubiquiti Inc.  | `UDM-PRO`            | …                             |
+| Switch           | Ubiquiti Inc.  | `US-16-150W`         | …                             |
+| Access Point #1  | Ubiquiti Inc.  | `U7-Pro-Max`         |                               |
+| Access Point #2  | Ubiquiti Inc.  | `U7-Pro-Max`         |                               |
+| UPS              | APC            | `Smart-UPS C 1500 2U` | …                            |
 
 ### Smart Home Devices
-| Category | Device | Model | Protocol | Notes |
-|----------|--------|--------|----------|-------|
-| … | … | … | … | … |
+| Category      | Brand | Model    | Notes |
+|---------------|-------|---------|-------|
+| Robot vacuum  | eufy  | `S1 Pro` | …     |
 
 ### Appliances
 | Device     | Brand   | Model        | Notes                                 |
@@ -29,14 +34,19 @@ TBD
 | Cooktop    | AEG     | `IKB64441FB` | …                                     |
 | Dishwasher | Siemens | `SN65YX00CE` | iQ 500 series (supports Home Connect) |
 
-### Sensors
-TBD
-
 ### Media & Entertainment
-TBD
+| Device   | Brand | Model        | Notes                  |
+|----------|-------|--------------|------------------------|
+| TV       | LG    | `OLED55C8PLA` | WebOS                 |
+| Receiver | Onkyo | `TX-8220`     | …                     |
+| Speakers | B&W   | `607 S3`      | …                     |
+| Speakers | Sonos | `One`         | Gen 1                 |
 
 ### Other Devices
-TBD
+| Device       | Manufacturer | Model     | Notes |
+|-------------|--------------|----------|-------|
+| AC Unit      | Daikin       | TBD      | …     |
+| Garage Door  | Horrman      | ProMatic | …     |
 
 ## 🧩 Software & Integrations
 
